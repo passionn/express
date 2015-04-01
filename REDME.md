@@ -1,1 +1,0 @@
-用nodejs + express +mongodb 写的简单的博客系统，作为入门教程
