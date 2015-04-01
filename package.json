@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "author": "passion",
+  "version": "0.0.1",
+  "description": "express demo blog",
+  "dependencies":{
+    "express": "^4.9.5",
+    "ejs": "1.0.0",
+    "mongoose": "3.8.19",
+    "body-parser": "^1.9.0",
+    "bcrypt":"latest",
+    "connect-mongo":"latest",
+    "express-session":"latest",
+    "cookie-parser":"latest",
+    "morgan":"^1.5.0"
+  },
+  "main": "server.js"  
+}
